@@ -89,7 +89,7 @@ results.show()
 ## 📊 **Example Output**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/himanshu-chauhan-stack/RT_Object_Detection/refs/heads/main/content/sample_data/BANNER/OP.png" width="800"/>
+  <img src="https://raw.githubusercontent.com/himanshu-chauhan-stack/RT_Object_Detection/refs/heads/main/content/sample_data/BANNER/OP.png" width="1000"/>
 </p>
 
 ---
