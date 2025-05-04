@@ -2,7 +2,7 @@
 # 🛠️ **Real-Time Object Detection using YOLOv5 on Google Colab**
 
 <p align="center">
-  <img src="="https://user-images.githubusercontent.com/84223961/129499636-99930ed7-c68e-4934-bc5a-f9185026a91e.png" width="600"/>
+  <img src="="https://raw.githubusercontent.com/himanshu-chauhan-stack/RT_Object_Detection/refs/heads/main/content/sample_data/BANNER/frnt.png" width="600"/>
 </p>
 
 <p align="center">
