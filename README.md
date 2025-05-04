@@ -23,7 +23,7 @@ This project enables you to detect objects in **images & videos** using pre-trai
 
 ## 📊 Example Output
 
-<img src="https://user-images.githubusercontent.com/ultralytics/yolov5/detected_example.png" width="600"/>
+<img src="[https://user-images.githubusercontent.com/ultralytics/yolov5/detected_example.png](https://sdmntpreastus2.oaiusercontent.com/files/00000000-3900-61f6-921e-f7bd9a9b3772/raw?se=2025-05-04T02%3A37%3A54Z&sp=r&sv=2024-08-04&sr=b&scid=17e2c2dd-ce92-5c00-92ff-87e8ce38bd02&skoid=e4438ed3-2a6f-4fd3-bf63-222012dc627c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-03T19%3A38%3A12Z&ske=2025-05-04T19%3A38%3A12Z&sks=b&skv=2024-08-04&sig=iOTQ%2BRV5ioKaXwrsz2EIhJQDLkjJCSBE6o8%2BEmUfSCA%3D)" width="600"/>
 
 ---
 
