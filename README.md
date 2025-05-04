@@ -24,7 +24,7 @@ This project demonstrates **Real-Time Object Detection** using **YOLOv5** on Goo
 It detects objects in images, videos, and webcam feeds with **high speed and accuracy**.
 
 **✨ Features:**
-- Detect objects in images, videos & webcam
+- Detect objects in images & webcam
 - Runs directly on **Google Colab** (No GPU required locally!)
 - Powered by **PyTorch** + YOLOv5  
 - Supports custom datasets (training)
@@ -109,7 +109,6 @@ pip install -r requirements.txt
 | Task | Command |
 |------|---------|
 | Detect objects in image | `python detect.py --source image.jpg` |
-| Detect in video | `python detect.py --source video.mp4` |
 | Detect from webcam | `python detect.py --source 0` |
 
 ---
